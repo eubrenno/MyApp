@@ -13,10 +13,10 @@
         android:theme="@style/Theme.MyApp"
         tools:targetApi="31">
         <activity
-            android:name=".MenuPrincipalActivity"
+            android:name=".LoginActivity"
             android:exported="false" />
         <activity
-            android:name=".LoginActivity"
+            android:name=".MenuPrincipalActivity"
             android:exported="false" />
         <activity
             android:name=".SplashActivity"
