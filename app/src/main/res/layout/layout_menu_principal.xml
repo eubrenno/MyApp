@@ -8,13 +8,18 @@
     tools:context=".MenuPrincipalActivity">
 
     <com.google.android.material.card.MaterialCardView
+        android:id="@+id/cadTipoMaca"
         android:layout_width="180dp"
         android:layout_height="200dp"
-        android:clickable="true"
-        android:focusable="true"
         android:checkable="true"
-        android:id="@+id/"
+        android:clickable="true"
+        android:focusable="true">
 
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+
+    </com.google.android.material.card.MaterialCardView>
 
 
 </LinearLayout>
