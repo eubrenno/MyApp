@@ -102,14 +102,14 @@
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
                     android:scaleType="centerInside"
-                    android:src="@drawable/logo" />
+                    android:src="@drawable/curiosidades" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_margin="10sp"
-                    android:text="Modelo de Maçãs"
+                    android:text="Curiosidades"
                     android:textSize="20sp"
                     android:textStyle="bold" />
 
@@ -134,15 +134,15 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
-                    android:scaleType="centerInside"
-                    android:src="@drawable/galeria" />
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/cores" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_margin="10sp"
-                    android:text="Galeria"
+                    android:text="Cores"
                     android:textSize="20sp"
                     android:textStyle="bold" />
 
@@ -173,14 +173,14 @@
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
                     android:scaleType="centerInside"
-                    android:src="@drawable/logo" />
+                    android:src="@drawable/macieira" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_margin="10sp"
-                    android:text="Modelo de Maçãs"
+                    android:text="Macieiras"
                     android:textSize="20sp"
                     android:textStyle="bold" />
 
@@ -206,14 +206,14 @@
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
                     android:scaleType="centerInside"
-                    android:src="@drawable/galeria" />
+                    android:src="@drawable/receitas" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_margin="10sp"
-                    android:text="Galeria"
+                    android:text="Receitas"
                     android:textSize="20sp"
                     android:textStyle="bold" />
 
